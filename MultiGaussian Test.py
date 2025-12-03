@@ -206,6 +206,7 @@ def multi_gaussian(x, *params):
     
     return y
 
+# these parameters might have to be changed depending on the dataset
 peak_sep_MHz = 0.15
 sigma_guess = 0.05
 
